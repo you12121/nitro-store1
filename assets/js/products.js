@@ -4,7 +4,7 @@ const products = [
         id: 1,
         title: "Discord Nitro Classic - شهر واحد",
         description: "احصل على مميزات Discord Nitro Classic لمدة شهر كامل",
-        price: 4.99,
+        price: 1,
         oldPrice: 6.99,
         image: "assets/images/nitro-classic-card.png",
         category: "classic",
