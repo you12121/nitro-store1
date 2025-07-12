@@ -1,4 +1,4 @@
-# متجر النيترو - Discord Nitro Store
+# متجر النيتروDiscord Nitro Store
 
 ## نظرة عامة
 
